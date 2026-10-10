@@ -28,6 +28,10 @@ All data is fictional. "Northside Physio" is an invented clinic; names, emails (
 
 Regenerate with the matching `render_*.py` script (requires Pillow).
 
+![Where we are](arch-0-where-we-are.png)
+
+arch-0 — where we are vs the three target architectures (status as of 10 Oct 2026)
+
 ![Operator estate](arch-1-operator-estate.png)
 
 Arch 1: the operator estate, how the agent stack and its controls fit together on GCP.
