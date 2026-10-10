@@ -44,6 +44,16 @@ Arch 2: the revenue-leakage sprint, from client data through analysis to an evid
 
 Arch 3: a white-label voice platform that partners can run under their own brand.
 
+![Enterprise multi-agent](arch-4-enterprise-multiagent.png)
+
+Arch 4: the governed enterprise multi-agent platform on GCP (target state).
+
+![Prototype shapes](arch-5-prototype-shapes.png)
+
+Arch 5: six agent prototype shapes enterprises build on GCP.
+
+Background research: [How UK banks are building agents on GCP](ENTERPRISE-AGENTS-GCP.md).
+
 ## Licence
 
 MIT, see [LICENSE](LICENSE).
